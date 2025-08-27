@@ -1,3 +1,10 @@
 body{
     background-color: rgb(253, 243, 151);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.titulo{
+    color: lightpink;
+    font-family: monospace;
+    text-align: center;
 }
