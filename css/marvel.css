@@ -1,0 +1,232 @@
+table{
+    border: solid #000000 1px; 
+    width: 70%; 
+    margin:auto; 
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    border: solid #000000 1px; 
+    background-color:#ffffff; 
+    padding: 1px;
+}
+th{
+    border: solid #000000 1px; 
+    background-color: #ffffff; 
+    padding: 4px;
+}
+body{
+    background-color: white; 
+}
+.Titulo1{
+    background-color: rgb(41, 71, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Atores{
+    background-color: rgb(41, 71, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.obra{
+    background-color: rgb(41, 71, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Categoria{
+    background-color: rgb(41, 71, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano{
+    background-color: rgb(41, 71, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.filmes{
+    background-color: rgb(73, 111, 182);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.robert{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.chad{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.homem{
+    background-color: rgb(241, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.filme{
+    background-color: rgb(241, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano1{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.vingadores{
+    background-color: rgb(241, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.filme2{
+    background-color: rgb(241, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano2{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.pantera{
+    background-color: rgb(241, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.filme3{
+    background-color: rgb(241, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano3{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.series{
+    background-color: rgb(73, 111, 182);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.tom{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.loki1{
+    background-color: rgb(74, 158, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.serie1{
+    background-color: rgb(74, 158, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano4{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.loki2{
+    background-color: rgb(74, 158, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.serie2{
+    background-color: rgb(74, 158, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano5{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.eli{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.wanda{
+    background-color: rgb(74, 158, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.serie3{
+    background-color: rgb(74, 158, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano6{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.animacoes{
+    background-color: rgb(73, 111, 182);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.atores{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.what{
+    background-color: rgb(255, 245, 106);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+.animacao{
+    background-color: rgb(255, 245, 106);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+.ano7{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.homem2{
+    background-color: rgb(255, 245, 106);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+.animacao2{
+    background-color: rgb(255, 245, 106);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+.ano8{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.especiais{
+    background-color: rgb(73, 111, 182);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.chris{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.guardioes{
+    background-color: rgb(147, 56, 231);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.especial{
+    background-color: rgb(147, 56, 231);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.ano9{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.total{
+    background-color: rgb(41, 71, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+td:hover{
+    background-color: rgb(210, 226, 255);
+}
